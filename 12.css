@@ -76,7 +76,7 @@ border-radius: 50%;
 
 .box1 {
   height: 500px;
-  background-color: rgba(226, 207, 98, 0.264);
+  background-color: rgba(171, 208, 231, 0.264);
   border-radius: 30px;
 
 }
@@ -196,7 +196,7 @@ padding: 20px;
       border-radius: 12px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-      background:  rgba(226, 207, 98, 0.264);
+      background:  rgba(171, 208, 231, 0.264);
     }
 
     .about-text h2,
@@ -226,4 +226,5 @@ padding: 20px;
       border-radius: 12px;
       display: block;
     }
+
 
