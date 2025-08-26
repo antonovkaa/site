@@ -196,7 +196,7 @@ padding: 20px;
       border-radius: 12px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-      background: #fff;
+      background:  rgba(226, 207, 98, 0.264);
     }
 
     .about-text h2,
@@ -226,3 +226,4 @@ padding: 20px;
       border-radius: 12px;
       display: block;
     }
+
