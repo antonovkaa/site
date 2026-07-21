@@ -229,4 +229,17 @@ padding: 20px;
       display: block;
     }
 
+.bot-button {
+  display: inline-block;
+  padding: 14px 24px;
+  background: #229ED9;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.bot-button:hover {
+  opacity: 0.85;
 
