@@ -95,13 +95,13 @@ border-radius: 50%;
 
 /* Додаємо картинки */
 .cont1 {
-  background-image: url("cour.jpg");
+  background-image: url("site_python.jpg");
 }
 .cont2 {
-  background-image: url("cour.jpg");
+  background-image: url("site_critp.jpg");
 }
 .cont3 {
-  background-image: url("cour.jpg");
+  background-image: url("site_ciber.jpg");
 }
 
 .text1 {
