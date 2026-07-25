@@ -224,7 +224,7 @@ padding: 20px;
     }
 
     .about-img img {
-      width: 70%;               /* фото розтягується на весь свій контейнер */
+      width: 50%;               /* фото розтягується на весь свій контейнер */
       height: 50%;
       border-radius: 12px;
       display: block;
