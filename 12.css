@@ -225,7 +225,7 @@ padding: 20px;
 
     .about-img img {
       width: 70%;               /* фото розтягується на весь свій контейнер */
-      height: auto;
+      height: 50%;
       border-radius: 12px;
       display: block;
     }
